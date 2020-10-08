@@ -1,0 +1,35 @@
+//@font-face {
+//    font-family: 'iransans';
+//    font-style: normal;
+//    font-weight: 400;
+//    src: url('./fonts/IRANSansWeb_Light.woff2') format('woff2'),
+//         url('./fonts/IRANSansWeb_Light.woff') format('woff');
+//}
+
+body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: iransans !important;
+}
+.navbar {
+    box-shadow: 0 4px 18px 0 rgba(0,0,0,0), 0 7px 10px -5px rgba(0,0,0,0);
+}
+@media (max-width: 991px) {
+    .off-canvas-sidebar nav .navbar-collapse:before, .sidebar:before {
+        background-color: #fff;
+    }
+}
+.form-check .form-check-label span {
+    left: 0 !important;
+    right: -1px !important;
+}
+.form-check .form-check-sign {
+    padding-right: 0 !important;
+    padding-left: 10px !important;
+}
+html[dir="rtl"] .form-check-label {
+    padding-right: 1.5rem !important;
+}
+.sidebar[data-color=purple] li>a.active {
+    background-color: #9c27b0;
+    box-shadow: 0 4px 20px 0 rgba(0,0,0,.14), 0 7px 10px -5px rgba(156,39,176,.4);
+    color: #fff;
+}

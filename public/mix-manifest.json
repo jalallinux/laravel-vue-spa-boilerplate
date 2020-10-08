@@ -1,0 +1,14 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/admin-user.js": "/js/admin-user.js",
+    "/js/admin-users.js": "/js/admin-users.js",
+    "/js/chunks/admin-layout.js": "/js/chunks/admin-layout.js",
+    "/js/chunks/admin-layout~js/chunks/app-layout~js/chunks/dashboard.js": "/js/chunks/admin-layout~js/chunks/app-layout~js/chunks/dashboard.js",
+    "/js/chunks/app-layout.js": "/js/chunks/app-layout.js",
+    "/js/chunks/auth.js": "/js/chunks/auth.js",
+    "/js/chunks/dashboard.js": "/js/chunks/dashboard.js",
+    "/js/chunks/dashboards.js": "/js/chunks/dashboards.js",
+    "/js/chunks/home.js": "/js/chunks/home.js",
+    "/js/dashboard.js": "/js/dashboard.js"
+}

@@ -1,0 +1,15 @@
+// Fonts
+//@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+//@import '~bootstrap-v4-rtl/scss/bootstrap-rtl';
+
+@import "./dashboard/material-dashboard.min.css";
+@import "./dashboard/material-dashboard-rtl.css";
+
+@import "styles";
+
+@import "~@fortawesome/fontawesome-free/css/all.css";
